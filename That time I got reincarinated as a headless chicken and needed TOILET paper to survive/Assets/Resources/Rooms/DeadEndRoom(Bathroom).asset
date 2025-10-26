@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b2802cedde458d4e9bbd6f19e90e63d, type: 3}
+  m_Name: DeadEndRoom(Bathroom)
+  m_EditorClassIdentifier: Assembly-CSharp::RoomDefinition
+  roomName: Dead End (+10 Stamina)
+  layout: 0
+  spriteFromUp: {fileID: 21300000, guid: 735d6580b5ac35c43a2ea2d30d58e446, type: 3}
+  spriteFromDown: {fileID: 21300000, guid: 7411e7b2264fd8a4d8a1685c31833859, type: 3}
+  spriteFromLeft: {fileID: 21300000, guid: b94f1d9a846f7f240b7f18a76c6d28f0, type: 3}
+  spriteFromRight: {fileID: 21300000, guid: 31fd4e3aabb9fdd4fb6d950a5a4385fb, type: 3}
+  coinCost: 0
+  keyCost: 0
+  gemCost: 0
+  coinReward: 0
+  keyReward: 0
+  gemReward: 0
+  staminaGain: 0
+  staminaLoss: 0
+  requiresEndKey: 0
+  grantsEndKey: 0
+  oneTimeReward: 0
+  repeatableStamina: 0

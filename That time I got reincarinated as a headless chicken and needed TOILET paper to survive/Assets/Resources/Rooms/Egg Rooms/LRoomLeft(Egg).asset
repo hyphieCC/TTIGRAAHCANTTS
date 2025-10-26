@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b2802cedde458d4e9bbd6f19e90e63d, type: 3}
+  m_Name: LRoomLeft(Egg)
+  m_EditorClassIdentifier: Assembly-CSharp::RoomDefinition
+  roomName: L Room (Left)
+  layout: 2
+  spriteFromUp: {fileID: 21300000, guid: 5042602317c2bc84fa46e9f977e83c12, type: 3}
+  spriteFromDown: {fileID: 21300000, guid: 89de5edcceeb5144ea78da04aac78671, type: 3}
+  spriteFromLeft: {fileID: 21300000, guid: 790a1975944304b488a3b8390cc3a469, type: 3}
+  spriteFromRight: {fileID: 21300000, guid: ba76188ebba3eb349ae7110492e6d64f, type: 3}
+  coinCost: 0
+  keyCost: 0
+  gemCost: 0
+  coinReward: 0
+  keyReward: 0
+  gemReward: 0
+  staminaGain: 0
+  staminaLoss: 0
+  requiresEndKey: 0
+  grantsEndKey: 0
+  oneTimeReward: 0
+  repeatableStamina: 0
+  uniquePerFloor: 0
